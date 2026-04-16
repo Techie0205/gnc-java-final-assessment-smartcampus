@@ -73,5 +73,5 @@ View Students
 View Enrollments
 Exit
 
-**SCREENSHOT**
+#SCREENSHOT
 <img width="1920" height="981" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/301f946d-70bf-4391-8020-95a02bc52d58" />
